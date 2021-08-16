@@ -5,7 +5,8 @@
         "telegram",
         "vc bot"
     ],
-    "repository": "https://github.com/kenanismayilov335/CryptoTrackerBot",
+    "repository": "https://github.com/kenanismayilov335/telegram-crypto-tracker
+",
     "success_url": "https://t.me/RobotRoom",
     "stack": "container",
     "env": {
